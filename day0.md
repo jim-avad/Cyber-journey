@@ -1,0 +1,2 @@
+- This is my day 0 as cybersecurity entusiast.
+- I have some backgrond in software development mostly dealing with embedded systems. 
