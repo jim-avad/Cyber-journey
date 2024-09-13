@@ -1,2 +1,11 @@
 - This is my day 0 as cybersecurity entusiast.
 - I have some backgrond in software development mostly dealing with embedded systems. 
+- I found this repository for cybersecurity resources: https://github.com/Nickyie/Cybersecurity-Resources
+- It is not the thing I'm looking for, though. I want to get engaged very quick.
+- I learned about basics of secure coding and network security on youtube.
+- I had a look at OWASP top 10: https://owasp.org/Top10/ 
+- Found this book: Penetration Testing - A hands-on introduction to Hacking
+- Also this book: Hands-On Penetration Testing with Python Enhance your ethical hacking skills to build automated and intelligent systems
+- I want to learn how to pentest in web. This book looks promising: Hands-on Penetration Testing for Web Applications: Run Web Security Testing on Modern Applications Using Nmap, Burp Suite and Wireshark 
+- I need a virtual lab to practice pentesting with python and also for web applications
+- Following "Penetration Testing - A hands-on introduction to Hacking", I'm setting up my virtual test lab. Installing vmware and downloading kali linux.
